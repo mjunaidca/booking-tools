@@ -14,6 +14,13 @@ Build a minimal, working set of tools that let an AI agent take a customer from 
 
 Building **MCP (Model Context Protocol) servers** — one per domain. Each domain becomes a standalone MCP server that any agent framework can connect to.
 
+## Tech Stack
+
+- **Language:** Python with FastMCP SDK
+- **Transport:** Streamable HTTP (remote-capable, multi-client)
+- **Validation:** Pydantic models
+- **Each domain** = one standalone MCP server process
+
 ## Architecture
 
 ```
@@ -21,6 +28,7 @@ Customer ←→ AI Agent (framework) ←→ MCP Servers (this repo) ←→ Backe
                                       ├── property-catalog-mcp
                                       ├── scheduling-mcp
                                       └── crm-mcp
+                                      (all Streamable HTTP)
 ```
 
 The agent framework handles conversation and messaging. This repo provides MCP servers exposing the 5 tools the agent calls to do real work.

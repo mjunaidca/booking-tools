@@ -1,0 +1,375 @@
+[
+  {
+    "property_id": "prop_001",
+    "title": "5 Marla House in DHA Phase 6",
+    "description": "Recently renovated 2-bedroom house with modern kitchen and spacious drawing room. Corner plot with car porch for 2 cars. Ideal for small family.",
+    "location": {
+      "city": "Lahore",
+      "area": "DHA Phase 6",
+      "block": "D",
+      "street": "Street 12",
+      "address": "House 45, Street 12, Block D, DHA Phase 6, Lahore",
+      "map_url": "https://maps.google.com/?q=31.4697,74.4090"
+    },
+    "price": 8500000,
+    "price_formatted": "85 Lac",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_marla": 5,
+    "property_type": "house",
+    "purpose": "buy",
+    "status": "available",
+    "features": ["Newly renovated", "Corner plot", "Servant quarter", "Car porch for 2 cars"],
+    "amenities": ["Gas", "Electricity (no load-shedding area)", "Sui gas", "Broadband available"],
+    "photos": [
+      {"url": "https://example.com/prop_001/front.jpg", "caption": "Front view"},
+      {"url": "https://example.com/prop_001/drawing.jpg", "caption": "Drawing room"},
+      {"url": "https://example.com/prop_001/kitchen.jpg", "caption": "Kitchen"}
+    ],
+    "owner_notes": "Owner prefers evening viewings after 4pm",
+    "listed_date": "2026-03-15",
+    "viewing_instructions": "Enter from main gate, house is 3rd on the left",
+    "image_url": "https://example.com/prop_001/front.jpg"
+  },
+  {
+    "property_id": "prop_002",
+    "title": "7 Marla House in DHA Phase 5",
+    "description": "Spacious 3-bedroom house with large lawn and separate guest room. Well-maintained with original fittings. Quiet street.",
+    "location": {
+      "city": "Lahore",
+      "area": "DHA Phase 5",
+      "block": "A",
+      "street": "Street 3",
+      "address": "House 12, Street 3, Block A, DHA Phase 5, Lahore",
+      "map_url": "https://maps.google.com/?q=31.4750,74.4020"
+    },
+    "price": 15000000,
+    "price_formatted": "1.5 Crore",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_marla": 7,
+    "property_type": "house",
+    "purpose": "buy",
+    "status": "available",
+    "features": ["Large lawn", "Separate guest room", "Boundary wall", "2 car garage"],
+    "amenities": ["Gas", "Electricity", "Water bore", "Cable TV"],
+    "photos": [
+      {"url": "https://example.com/prop_002/front.jpg", "caption": "Front elevation"},
+      {"url": "https://example.com/prop_002/lawn.jpg", "caption": "Lawn area"}
+    ],
+    "owner_notes": "Available any day except Friday",
+    "listed_date": "2026-02-20",
+    "viewing_instructions": "Ring the bell at main gate",
+    "image_url": "https://example.com/prop_002/front.jpg"
+  },
+  {
+    "property_id": "prop_003",
+    "title": "3 Marla Apartment in Gulberg",
+    "description": "Modern 1-bedroom apartment on 4th floor with lift access. Recently painted. Near MM Alam Road restaurants.",
+    "location": {
+      "city": "Lahore",
+      "area": "Gulberg III",
+      "block": null,
+      "street": "Main Boulevard",
+      "address": "Flat 4B, Al-Rehman Tower, Main Boulevard, Gulberg III, Lahore",
+      "map_url": "https://maps.google.com/?q=31.5204,74.3587"
+    },
+    "price": 4500000,
+    "price_formatted": "45 Lac",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size_marla": 3,
+    "property_type": "apartment",
+    "purpose": "buy",
+    "status": "available",
+    "features": ["Lift access", "Recently painted", "Near commercial area", "Security guard"],
+    "amenities": ["Electricity with generator backup", "Water supply", "Internet ready"],
+    "photos": [
+      {"url": "https://example.com/prop_003/living.jpg", "caption": "Living area"},
+      {"url": "https://example.com/prop_003/bedroom.jpg", "caption": "Bedroom"}
+    ],
+    "owner_notes": "Tenant currently living, 24hr notice needed",
+    "listed_date": "2026-03-01",
+    "viewing_instructions": "Contact security guard at building entrance",
+    "image_url": "https://example.com/prop_003/living.jpg"
+  },
+  {
+    "property_id": "prop_004",
+    "title": "10 Marla House in Bahria Town",
+    "description": "Brand new 4-bedroom house with modern architecture. Imported fittings, modular kitchen, and rooftop terrace. Gated community with 24/7 security.",
+    "location": {
+      "city": "Lahore",
+      "area": "Bahria Town",
+      "block": "Sector E",
+      "street": "Tulip Block",
+      "address": "House 78, Tulip Block, Sector E, Bahria Town, Lahore",
+      "map_url": "https://maps.google.com/?q=31.3650,74.2100"
+    },
+    "price": 25000000,
+    "price_formatted": "2.5 Crore",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "size_marla": 10,
+    "property_type": "house",
+    "purpose": "buy",
+    "status": "available",
+    "features": ["Brand new", "Modular kitchen", "Rooftop terrace", "Imported fittings", "Home theatre"],
+    "amenities": ["Gas", "Electricity with UPS", "Central heating", "Broadband", "CCTV"],
+    "photos": [
+      {"url": "https://example.com/prop_004/front.jpg", "caption": "Front elevation"},
+      {"url": "https://example.com/prop_004/kitchen.jpg", "caption": "Modular kitchen"},
+      {"url": "https://example.com/prop_004/terrace.jpg", "caption": "Rooftop terrace"}
+    ],
+    "owner_notes": "Owner lives abroad, caretaker will show the property",
+    "listed_date": "2026-03-10",
+    "viewing_instructions": "Call caretaker 30 mins before arrival",
+    "image_url": "https://example.com/prop_004/front.jpg"
+  },
+  {
+    "property_id": "prop_005",
+    "title": "2 Bedroom Apartment in DHA Phase 6",
+    "description": "Well-maintained 2-bedroom apartment with balcony. 2nd floor in a 6-story building. Close to parks and schools.",
+    "location": {
+      "city": "Lahore",
+      "area": "DHA Phase 6",
+      "block": "J",
+      "street": "Commercial Area",
+      "address": "Flat 2A, Pearl Tower, Commercial Area, Block J, DHA Phase 6, Lahore",
+      "map_url": "https://maps.google.com/?q=31.4710,74.4100"
+    },
+    "price": 45000,
+    "price_formatted": "45,000/month",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_marla": 4,
+    "property_type": "apartment",
+    "purpose": "rent",
+    "status": "available",
+    "features": ["Balcony", "Close to parks", "Near schools", "Well-maintained building"],
+    "amenities": ["Electricity with generator", "Water", "Gas", "Lift"],
+    "photos": [
+      {"url": "https://example.com/prop_005/balcony.jpg", "caption": "Balcony view"},
+      {"url": "https://example.com/prop_005/living.jpg", "caption": "Living room"}
+    ],
+    "owner_notes": "Minimum 1 year lease required",
+    "listed_date": "2026-03-20",
+    "viewing_instructions": "Ask for key at flat 1A (landlord's brother)",
+    "image_url": "https://example.com/prop_005/balcony.jpg"
+  },
+  {
+    "property_id": "prop_006",
+    "title": "1 Kanal House in DHA Phase 8",
+    "description": "Luxury 6-bedroom house with swimming pool, home gym, and landscaped garden. Premium location near commercial hub.",
+    "location": {
+      "city": "Lahore",
+      "area": "DHA Phase 8",
+      "block": "T",
+      "street": "Broadway Avenue",
+      "address": "House 5, Broadway Avenue, Block T, DHA Phase 8, Lahore",
+      "map_url": "https://maps.google.com/?q=31.4500,74.4200"
+    },
+    "price": 50000000,
+    "price_formatted": "5 Crore",
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "size_marla": 20,
+    "property_type": "house",
+    "purpose": "buy",
+    "status": "under_offer",
+    "features": ["Swimming pool", "Home gym", "Landscaped garden", "Smart home system", "Italian marble"],
+    "amenities": ["Gas", "Electricity with full backup", "Solar panels", "Central AC", "Broadband fiber"],
+    "photos": [
+      {"url": "https://example.com/prop_006/front.jpg", "caption": "Front elevation"},
+      {"url": "https://example.com/prop_006/pool.jpg", "caption": "Swimming pool"},
+      {"url": "https://example.com/prop_006/garden.jpg", "caption": "Landscaped garden"}
+    ],
+    "owner_notes": "Under offer but backup viewings accepted",
+    "listed_date": "2026-01-15",
+    "viewing_instructions": "Appointment only through office",
+    "image_url": "https://example.com/prop_006/front.jpg"
+  },
+  {
+    "property_id": "prop_007",
+    "title": "5 Marla Plot in Bahria Town",
+    "description": "Residential plot in a developed block with all utilities available. Ready for construction. 80ft wide road.",
+    "location": {
+      "city": "Lahore",
+      "area": "Bahria Town",
+      "block": "Sector D",
+      "street": "Plot Street 4",
+      "address": "Plot 234, Street 4, Sector D, Bahria Town, Lahore",
+      "map_url": "https://maps.google.com/?q=31.3680,74.2050"
+    },
+    "price": 6000000,
+    "price_formatted": "60 Lac",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "size_marla": 5,
+    "property_type": "plot",
+    "purpose": "buy",
+    "status": "available",
+    "features": ["Developed block", "80ft road", "Corner plot", "Park facing"],
+    "amenities": ["Gas connection available", "Electricity connection available", "Water bore nearby"],
+    "photos": [
+      {"url": "https://example.com/prop_007/plot.jpg", "caption": "Plot aerial view"}
+    ],
+    "owner_notes": "Price slightly negotiable for serious buyers",
+    "listed_date": "2026-02-28",
+    "viewing_instructions": "Meet at Bahria Town main gate, guide will escort",
+    "image_url": "https://example.com/prop_007/plot.jpg"
+  },
+  {
+    "property_id": "prop_008",
+    "title": "Shop in DHA Phase 5 Commercial",
+    "description": "Ground floor commercial shop in busy market. High foot traffic area. Currently vacant and ready for possession.",
+    "location": {
+      "city": "Lahore",
+      "area": "DHA Phase 5",
+      "block": "Commercial Zone",
+      "street": "Y Block Market",
+      "address": "Shop 15, Y Block Market, DHA Phase 5, Lahore",
+      "map_url": "https://maps.google.com/?q=31.4740,74.4010"
+    },
+    "price": 12000000,
+    "price_formatted": "1.2 Crore",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "size_marla": 2,
+    "property_type": "shop",
+    "purpose": "buy",
+    "status": "available",
+    "features": ["Ground floor", "High foot traffic", "Wide frontage", "Storage basement"],
+    "amenities": ["Electricity", "Water", "Signage space"],
+    "photos": [
+      {"url": "https://example.com/prop_008/front.jpg", "caption": "Shop frontage"},
+      {"url": "https://example.com/prop_008/inside.jpg", "caption": "Interior"}
+    ],
+    "owner_notes": "Also available for rent at 150,000/month",
+    "listed_date": "2026-03-05",
+    "viewing_instructions": "Shop is open, walk in anytime during market hours",
+    "image_url": "https://example.com/prop_008/front.jpg"
+  },
+  {
+    "property_id": "prop_009",
+    "title": "10 Marla House in DHA Phase 6",
+    "description": "Well-built 4-bedroom house with double-height drawing room. Marble flooring throughout. Mature trees in garden.",
+    "location": {
+      "city": "Karachi",
+      "area": "DHA Phase 6",
+      "block": "Block 7",
+      "street": "Khayaban-e-Shahbaz",
+      "address": "House 22, Khayaban-e-Shahbaz, Block 7, DHA Phase 6, Karachi",
+      "map_url": "https://maps.google.com/?q=24.8050,67.0350"
+    },
+    "price": 35000000,
+    "price_formatted": "3.5 Crore",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "size_marla": 10,
+    "property_type": "house",
+    "purpose": "buy",
+    "status": "available",
+    "features": ["Double-height drawing room", "Marble flooring", "Mature garden", "Boundary wall"],
+    "amenities": ["Gas (Sui Southern)", "Electricity with UPS", "Water (tanker + bore)", "Internet"],
+    "photos": [
+      {"url": "https://example.com/prop_009/drawing.jpg", "caption": "Double-height drawing room"},
+      {"url": "https://example.com/prop_009/garden.jpg", "caption": "Garden"}
+    ],
+    "owner_notes": "Owner relocating, motivated seller",
+    "listed_date": "2026-02-10",
+    "viewing_instructions": "Call owner directly, lives next door",
+    "image_url": "https://example.com/prop_009/drawing.jpg"
+  },
+  {
+    "property_id": "prop_010",
+    "title": "3 Bedroom Apartment in Clifton",
+    "description": "Sea-facing 3-bedroom apartment on 8th floor. Modern finishes with open-plan kitchen. Includes parking space.",
+    "location": {
+      "city": "Karachi",
+      "area": "Clifton",
+      "block": "Block 2",
+      "street": "Sea View Avenue",
+      "address": "Flat 8C, Ocean Towers, Sea View Avenue, Block 2, Clifton, Karachi",
+      "map_url": "https://maps.google.com/?q=24.8150,67.0250"
+    },
+    "price": 120000,
+    "price_formatted": "1.2 Lac/month",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_marla": 8,
+    "property_type": "apartment",
+    "purpose": "rent",
+    "status": "available",
+    "features": ["Sea facing", "8th floor", "Open-plan kitchen", "Dedicated parking", "Gym access"],
+    "amenities": ["Electricity with generator", "Water", "Central gas", "Lift", "Security"],
+    "photos": [
+      {"url": "https://example.com/prop_010/seaview.jpg", "caption": "Sea view from balcony"},
+      {"url": "https://example.com/prop_010/kitchen.jpg", "caption": "Open-plan kitchen"}
+    ],
+    "owner_notes": "6 month minimum lease, 2 months advance",
+    "listed_date": "2026-03-18",
+    "viewing_instructions": "Contact building management at reception",
+    "image_url": "https://example.com/prop_010/seaview.jpg"
+  },
+  {
+    "property_id": "prop_011",
+    "title": "Commercial Office in Clifton",
+    "description": "2nd floor office space in a commercial building. Open floor plan, ready for fit-out. Near major banks and restaurants.",
+    "location": {
+      "city": "Karachi",
+      "area": "Clifton",
+      "block": "Block 5",
+      "street": "Boat Basin",
+      "address": "Suite 201, Business Plaza, Boat Basin, Block 5, Clifton, Karachi",
+      "map_url": "https://maps.google.com/?q=24.8200,67.0300"
+    },
+    "price": 75000,
+    "price_formatted": "75,000/month",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "size_marla": 6,
+    "property_type": "office",
+    "purpose": "rent",
+    "status": "available",
+    "features": ["Open floor plan", "Near Boat Basin", "Lift access", "Reception area"],
+    "amenities": ["Electricity with generator", "Central AC", "Fiber internet ready", "Parking"],
+    "photos": [
+      {"url": "https://example.com/prop_011/office.jpg", "caption": "Open floor space"},
+      {"url": "https://example.com/prop_011/entrance.jpg", "caption": "Building entrance"}
+    ],
+    "owner_notes": "Fit-out allowance negotiable for 2+ year lease",
+    "listed_date": "2026-03-12",
+    "viewing_instructions": "Ask security for key, 2nd floor suite 201",
+    "image_url": "https://example.com/prop_011/office.jpg"
+  },
+  {
+    "property_id": "prop_012",
+    "title": "5 Marla House in DHA Phase 5 Lahore",
+    "description": "Compact 3-bedroom house ideal for small family. Recently painted with new bathroom fittings. Walking distance to park.",
+    "location": {
+      "city": "Lahore",
+      "area": "DHA Phase 5",
+      "block": "B",
+      "street": "Street 18",
+      "address": "House 90, Street 18, Block B, DHA Phase 5, Lahore",
+      "map_url": "https://maps.google.com/?q=31.4760,74.4030"
+    },
+    "price": 35000,
+    "price_formatted": "35,000/month",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_marla": 5,
+    "property_type": "house",
+    "purpose": "rent",
+    "status": "sold",
+    "features": ["Recently painted", "New bathroom fittings", "Near park", "Quiet street"],
+    "amenities": ["Gas", "Electricity", "Water", "Cable TV"],
+    "photos": [
+      {"url": "https://example.com/prop_012/front.jpg", "caption": "Front view"}
+    ],
+    "owner_notes": "Already rented out",
+    "listed_date": "2026-01-20",
+    "viewing_instructions": "No longer available for viewing",
+    "image_url": "https://example.com/prop_012/front.jpg"
+  }
+]
